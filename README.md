@@ -1,67 +1,91 @@
-# 💫 About Me:
+# 💫 About Me
 
-I'm currently working on
+I’m a **software engineer focused on AI infrastructure and intelligent systems**, with a strong foundation in systems programming and full-stack development.<br>
+I enjoy building tools that sit *between* models and products — optimizing performance, orchestration, and real-world usability.
 
+---
 
+## 🚀 What I’m Working On
 
-Engineering high-performance AI systems, including a Full-Stack AI Prompt Router that optimizes LLM latency and a production-grade AI Voice Agent for FinTech operations.
+- **High-performance AI systems**, including:<br>
+  - A **Full-Stack AI Prompt Router** designed to minimize LLM latency and maximize throughput<br>
+  - A **production-grade AI Voice Agent** supporting real-time FinTech operations
+- Engineering scalable, reliable middleware that connects models to real users
 
+---
 
+## 🤝 Open to Collaborating On
 
+- Impactful **software engineering projects** that:<br>
+  - Leverage **AI/ML, RAG, and agent architectures**<br>
+  - Solve **complex infrastructure and scalability challenges**<br>
+  - Push beyond demos into **production-ready systems**
+- Teams building cutting-edge, high-leverage solutions with real-world constraints
 
+---
 
-I'm looking to collaborate on
+## 🧠 Looking to Grow In
 
+- **TypeScript & Next.js** for robust end-to-end full-stack applications<br>
+- **System design & large-scale backend architecture**<br>
+- Mentorship from experienced engineers working on distributed systems or AI platforms
 
+---
 
-Impactful software engineering projects, especially those leveraging AI/ML and RAG architecture, that push boundaries and solve complex infrastructure challenges. I'm eager to contribute to cutting-edge, scalable solutions.
+## 📚 Currently Learning
 
+- Advanced **data structures & algorithms** (NeetCode 150)<br>
+- **Vector databases** (e.g. Pinecone) and modern **LLM orchestration**<br>
+- Designing **autonomous agents** with reliable memory, tools, and control flow
 
+---
 
+## 💬 Ask Me About
 
+- My journey from a **Headstarter Fellow** to building intelligent middleware<br>
+- Applying **Java & C++ fundamentals** to high-performance AI systems<br>
+- Designing AI infrastructure that balances speed, cost, and reliability
 
-I'm looking for help with
+---
 
+## 🎮 Fun Fact
 
+I started coding at **12 years old** by modding **NBA 2K13** on the Xbox 360 — successfully extracting hidden cyberfaces, player portraits, jerseys, and classic NBA courts directly from the game disk.
 
-Deepening my expertise in TypeScript and Next.js to build even more robust full-stack applications. I am also actively seeking mentorship to refine my approach to system design and large-scale backend architecture.
+---
 
+## 🌐 Connect With Me
 
+<!--
+- LinkedIn: https://linkedin.com/in/yourname
+- Portfolio: https://yourwebsite.com
+- X / Twitter: https://x.com/yourhandle
+-->
 
+---
 
+## 💻 Tech Stack
 
-I'm currently learning
+<!--
+**Languages:** Java, C++, TypeScript, JavaScript, Python  
+**Frameworks:** Next.js, React, Node.js  
+**AI/ML:** OpenAI, LangChain, RAG, Vector Databases  
+**Databases:** PostgreSQL, Redis, Pinecone  
+**Infra:** Docker, AWS, Linux
+-->
 
+---
 
+## 📊 GitHub Stats
 
-Advanced data structures through the NeetCode 150 and exploring the integration of vector databases like Pinecone and modern LLM orchestration for autonomous agents.
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+-->
 
+---
 
+## 🏆 GitHub Trophies
 
-
-
-Ask me about
-
-
-
-My journey from a Headstarter Fellow to building intelligent middleware, and how I use my foundational Java/C++ skills to engineer high-leverage outcomes in the AI space.
-
-
-
-
-
-Fun fact
-
-
-
-My introduction to coding began at age 12 when I modded NBA 2K13 roster files on the Xbox 360, successfully extracting hidden cyberfaces, player portraits, jerseys, and classic NBA courts directly from the game disk.
-
-🌐 Socials:
-
-💻 Tech Stack:
-
-📊 GitHub Stats:
-
-🏆 GitHub Trophies
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=flat)
+-->
