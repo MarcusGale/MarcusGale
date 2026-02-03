@@ -1,21 +1,44 @@
-# 💫 About Me:
-I'm currently working on<br>Sharpening my problem-solving skills and preparing for technical interviews by diligently completing the NeetCode 150 algorithm challenges.<br><br>I'm looking to collaborate on<br>Impactful software engineering projects, especially those leveraging AI/ML, that push boundaries and help me stand out as a highly innovative and capable applicant. I'm eager to contribute to cutting-edge solutions.<br><br>I'm looking for help with<br>Expanding my technical toolkit by diving deeper into JavaScript and React to complement my existing proficiency in Java and C++. I'm also actively seeking opportunities to develop real-world projects with my Java skills and to refine my approach to solving complex technical interview questions.<br><br>I'm currently learning<br>Advanced data structures like Tries and Trees for technical interview preparation, and exploring the integration of modern APIs such as OpenAI, Stripe, and Firebase into full-stack applications.<br><br>Ask me about<br>My ambition to become a highly effective and innovative Software Engineer, and how my unique journey has shaped my drive for continuous learning and excellence in this field.<br><br>Fun fact<br>My introduction to coding began at age 12 when I modded NBA 2K13 roster files on the Xbox 360, successfully extracting hidden cyberfaces, player portraits, jerseys, and classic NBA courts directly from the game disk.
+💫 About Me:
 
+I'm a Software Engineer and recent Computer Science graduate focused on building high-performance, full-stack AI/ML applications. I specialize in turning complex data into measurable business impact.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Marcus Gale) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:MIPG820@gmail.com) 
+🔭 I’m currently working on:
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MarcusGale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MarcusGale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusGale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Engineering an AI Prompt Router to optimize LLM selection for cost and latency.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarcusGale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Mastering the NeetCode 150 to sharpen my algorithmic intuition for high-scale systems.
 
----
-[![](https://visitcount.itsvg.in/api?id=MarcusGale&icon=0&color=0)](https://visitcount.itsvg.in)
+🚀 I’m looking to collaborate on:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Scalable AI/ML infrastructure projects.
+
+Innovative Full-Stack solutions that leverage real-time data and LLMs.
+
+⚡ Recent Wins:
+
+Developed a production-ready AI Voice Agent for Aven (FinTech) using Vapi and Gemini LLM.
+
+Achieved a 30% reduction in token costs through custom middleware and prompt routing.
+
+🧠 I’m currently learning:
+
+Deep-level system design and advanced cloud infrastructure (AWS/GCP).
+
+Optimizing RAG (Retrieval-Augmented Generation) pipelines for low-latency responses.
+
+💬 Ask me about:
+
+How I reduced P95 latency from 4.2s to 2.6s in my AI systems.
+
+My obsession with Java DSA and building custom data structures from scratch.
+
+🎮 Fun fact:
+My introduction to coding began at age 12 when I modded NBA 2K13 roster files on the Xbox 360, successfully extracting hidden cyberfaces, player portraits, and classic courts directly from the game disk.
+
+🌐 Socials:
+
+💻 Tech Stack:
+
+📊 GitHub Stats:
+
+🏆 GitHub Trophies
