@@ -1,44 +1,23 @@
-💫 About Me:
+💫 About Me
 
-I'm a Software Engineer and recent Computer Science graduate focused on building high-performance, full-stack AI/ML applications. I specialize in turning complex data into measurable business impact.
+I am a Software Engineer and recent Computer Science graduate focused on building scalable, full-stack AI/ML solutions. I bridge the gap between rigorous algorithmic foundations and real-world business impact.
 
-🔭 I’m currently working on:
+🚀 Currently working on: Refining high-performance AI systems, including an AI Prompt Router that optimized LLM latency by 40% and a production-grade AI Voice Agent for the FinTech sector.
 
-Engineering an AI Prompt Router to optimize LLM selection for cost and latency.
+🧠 Sharpening my craft: Diligently completing the NeetCode 150 and the Pareto LeetCode set to master complex data structures and system efficiency.
 
-Mastering the NeetCode 150 to sharpen my algorithmic intuition for high-scale systems.
+🤝 Looking to collaborate on: Open-source AI infrastructure, RAG-powered applications, and high-scale backend systems.
 
-🚀 I’m looking to collaborate on:
+📚 Currently learning: Advanced TypeScript and Next.js to complement my deep roots in Java and C++. I'm also exploring low-latency vector database integrations with Pinecone.
 
-Scalable AI/ML infrastructure projects.
+💬 Ask me about: Building "intelligent" middleware, prompt engineering for business automation, or my journey from a Headstarter Fellow to a full-stack engineer.
 
-Innovative Full-Stack solutions that leverage real-time data and LLMs.
+⚡ Fun fact: My introduction to coding began at age 12 when I modded NBA 2K13 roster files on the Xbox 360, successfully extracting hidden cyberfaces and classic courts directly from the game disk.
 
-⚡ Recent Wins:
+🌐 Socials
 
-Developed a production-ready AI Voice Agent for Aven (FinTech) using Vapi and Gemini LLM.
+💻 Tech Stack
 
-Achieved a 30% reduction in token costs through custom middleware and prompt routing.
-
-🧠 I’m currently learning:
-
-Deep-level system design and advanced cloud infrastructure (AWS/GCP).
-
-Optimizing RAG (Retrieval-Augmented Generation) pipelines for low-latency responses.
-
-💬 Ask me about:
-
-How I reduced P95 latency from 4.2s to 2.6s in my AI systems.
-
-My obsession with Java DSA and building custom data structures from scratch.
-
-🎮 Fun fact:
-My introduction to coding began at age 12 when I modded NBA 2K13 roster files on the Xbox 360, successfully extracting hidden cyberfaces, player portraits, and classic courts directly from the game disk.
-
-🌐 Socials:
-
-💻 Tech Stack:
-
-📊 GitHub Stats:
+📊 GitHub Stats
 
 🏆 GitHub Trophies
